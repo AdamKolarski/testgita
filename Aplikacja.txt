@@ -3,4 +3,8 @@ public void logowanie() {
 
 public void logowanie() {
 	logowanie logowanie test test nauka}
+
+public void logowanie() {
+	logowanie logowanie test test nauka}
 	podaj email z gmaila 
+logowanie microsoft
