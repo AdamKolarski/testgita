@@ -8,3 +8,6 @@ public void logowanie() {
 	logowanie logowanie test test nauka}
 	podaj email z gmaila 
 logowanie microsoft
+
+Przypomnij haslo
+	"kliknij na przycisk przypomnij haslo"
